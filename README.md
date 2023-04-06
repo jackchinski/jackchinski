@@ -1,4 +1,4 @@
-![Alt Text](https://drive.google.com/file/d/1r_KVOakNHq9BT-aMpREewGo4KsbyXgca/view?usp=sharing)
+![Alt Text](https://ibb.co/jh0MfJV)
 
 ### Hi there my name is Marcin 👋
 
