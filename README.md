@@ -1,9 +1,11 @@
-![Alt Text](https://media.giphy.com/media/l1J9uvaWYWkNLjiz6/giphy.gif?cid=ecf05e47uv5srhn1espbjqfg8rmunq05m4cihzhaeptoi2aw&rid=giphy.gif&ct=g)
+![Alt Text](https://tenor.com/bKUvx.gif)
 
 ### Hi there 👋
 
 <!--
 **jackchinski/jackchinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Alt Text](https://media.giphy.com/media/l1J9uvaWYWkNLjiz6/giphy.gif?cid=ecf05e47uv5srhn1espbjqfg8rmunq05m4cihzhaeptoi2aw&rid=giphy.gif&ct=g)
 
 Here are some ideas to get you started:
 
