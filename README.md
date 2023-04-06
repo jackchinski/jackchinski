@@ -1,6 +1,6 @@
-![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D1731494008&psig=AOvVaw0lbnCJJs0vKcXQPxDfQLY3&ust=1680883318596000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDo7brQlf4CFQAAAAAdAAAAABAE)
+![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/802114790894531555/045F7A07B4272EF961134A63045A60BCB9A4CEC3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
-### Hi there 👋
+### Hi there my name is Marcin 👋
 
 <!--
 **jackchinski/jackchinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
