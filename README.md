@@ -1,4 +1,4 @@
-![Alt Text](https://im.ezgif.com/tmp/ezgif-1-44493ffc57.gif)
+![Alt Text](https://im.ezgif.com/tmp/ezgif-1-fc802957e7.gif)
 
 ### Hi there my name is Marcin 👋
 
