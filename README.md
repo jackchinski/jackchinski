@@ -1,4 +1,4 @@
-![Alt Text](https://ibb.co/jh0MfJV)
+![Alt Text](https://i.ibb.co/XX0sLYy/ezgif-com-crop.gif)
 
 ### Hi there my name is Marcin 👋
 
