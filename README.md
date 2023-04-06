@@ -1,4 +1,4 @@
-![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/802114790894531555/045F7A07B4272EF961134A63045A60BCB9A4CEC3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![Alt Text](https://im.ezgif.com/tmp/ezgif-1-44493ffc57.gif)
 
 ### Hi there my name is Marcin 👋
 
