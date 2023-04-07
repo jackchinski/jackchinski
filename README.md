@@ -2,7 +2,7 @@
 
 ### Hi, my name is Marcin 👋
 - 📚 I'm a student at the University of Toronto pursuing a Bachelor of Information Degree 
-- 📍 I'm originally from Poland🇵🇱 but now living in Canada 🇨🇦
+- 📍 I'm originally from Poland 🇵🇱 but now living in Canada 🇨🇦
 - 🌱 I’m currently learning these new things: R for data science, Figma for web/mobile design 
 - ⌨️ Keyboard Specs: Royal Kludge 87 + Akko Jelly Black Switches + Drop DCX Camilo keycaps 
 
