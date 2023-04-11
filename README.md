@@ -4,7 +4,7 @@
 - 📚 I'm a student at the University of Toronto pursuing a Bachelor of Information Degree 
 - 📍 I'm originally from Poland 🇵🇱 but now living in Canada 🇨🇦
 - 🌱 I’m currently learning these new things: R for data science, Figma for web/mobile design 
-- ⌨️ Keyboard Specs: Royal Kludge 87 + Akko Jelly Black Switches + Drop DCX Camilo keycaps 
+- ⌨️ Keyboard Specs: Royal Kludge 84 + Akko Jelly Black Switches + Drop DCX Camilo keycaps 
 
 <!--
 **jackchinski/jackchinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
