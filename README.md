@@ -1,7 +1,6 @@
 ![Alt Text](https://i.ibb.co/XX0sLYy/ezgif-com-crop.gif)
 
 ### Hi, my name is Marcin 👋
-- 📚 I'm a student at the University of Toronto pursuing a Bachelor of Information Degree
 - 📍 I'm originally from Poland 🇵🇱 but now living in Canada 🇨🇦
 - 🌱 I’m currently learning: Rust! 
 - ⌨️ Keeb: CIDOO V65 V2 + Boba U4T's  
