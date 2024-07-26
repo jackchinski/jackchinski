@@ -1,6 +1,5 @@
 <!--  ![Alt Text](https://i.ibb.co/XX0sLYy/ezgif-com-crop.gif)-->
-![Alt Text](https://i.gifer.com/PPy.gif)
-
+![Alt Text](https://gifer.com/embed/PPy)
 ### Hi, my name is Marcin 👋
 - 📍 I'm originally from Poland 🇵🇱 but now living in Canada 🇨🇦
 - 🌱 I’m currently learning: Foundry! 
