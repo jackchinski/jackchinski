@@ -1,5 +1,5 @@
  <!--![Alt Text](https://i.ibb.co/XX0sLYy/ezgif-com-crop.gif)-->
-![Alt Text](https://www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif)
+![Alt Text](https://64.media.tumblr.com/e1c5da7500447ac51ab1661819d6f4b2/1a4296433cef4166-8b/s1280x1920/b8361cd88301da5372f86efff22d950c16dbed9b.gifv)
  
 ### Hi, my name is Marcin 👋
 - 📍 I'm originally from Poland 🇵🇱 but now living in Canada 🇨🇦
