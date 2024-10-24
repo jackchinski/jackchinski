@@ -3,7 +3,7 @@
  
 ### Hi, my name is Marcin 👋
 - 📍 I'm originally from Poland 🇵🇱 but now living in Canada 🇨🇦
-- 🌱 I’m currently learning: Foundry & how to make a dapp! 
+- 🌱 I’m currently learning: Cairo!
 - ⌨️ Keeb: CIDOO V65 V2 + Boba U4T's  
 
 <!--
