@@ -4,7 +4,7 @@
 ### Hi, my name is Marcin 👋
 - 📍 I'm originally from Poland 🇵🇱 but now living in Canada 🇨🇦
 - 🌱 I’m currently learning: Cairo!
-- ⌨️ Keeb: CIDOO V65 V2 + Boba U4T's  
+- ⌨️ Keeb: Rainy75 Stock 😱
 
 <!--
 **jackchinski/jackchinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
