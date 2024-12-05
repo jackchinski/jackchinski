@@ -4,6 +4,7 @@
 ### Hi, my name is Marcin 👋
 - 🌱 I’m currently learning: Cairo!
 - ⌨️ Keeb: Rainy75 Stock 😱
+- 🔧 Building: A Bridge to heaven
 
 <!--
 **jackchinski/jackchinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
