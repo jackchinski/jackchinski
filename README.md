@@ -3,7 +3,7 @@
  
 ### Hi, my name is Marcin 👋
 - 🌱 I’m currently learning: Cairo!
-- ⌨️ Keeb: Rainy75 Stock 😱
+- ⌨️ Keeb: Rainy75
 - 🔧 Building: A Bridge to heaven
 
 <!--
