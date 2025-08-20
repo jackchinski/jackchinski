@@ -4,7 +4,7 @@
 ### Hi, my name is Marcin 👋
 - 🌱 I’m currently learning: Rust!
 - ⌨️ Keeb: Rainy75
-- 🔧 Building: A Bridge to heaven
+- 🔧 Building: ZK intent-based bridge 
 
 <!--
 **jackchinski/jackchinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
