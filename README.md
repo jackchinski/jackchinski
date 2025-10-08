@@ -2,9 +2,9 @@
 ![Alt Text](https://64.media.tumblr.com/e1c5da7500447ac51ab1661819d6f4b2/1a4296433cef4166-8b/s1280x1920/b8361cd88301da5372f86efff22d950c16dbed9b.gifv)
  
 ### Hi, my name is Marcin 👋
-- 🌱 I’m currently learning: Rust!
+- 🌱 I’m currently learning: How to build a successful startup!
 - ⌨️ Keeb: Rainy75
-- 🔧 Building: ZK intent-based bridge 
+- 🔧 Building: ZK intent-based bridge called Most Bridge
 
 <!--
 **jackchinski/jackchinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
