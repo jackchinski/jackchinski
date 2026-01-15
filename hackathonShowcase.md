@@ -2,17 +2,17 @@
 
 A quick index of my hackathon projects, with links to the public showcases, code, and the awards.
 
-## ETHGlobal Bangkok — **SafeHODL**
-**Award:** Curvegrid — Best use of Webhooks  
-- Showcase: https://ethglobal.com/showcase/safehodl-jzs2b  
-- Repo: https://github.com/jackchinski/safeHODL  
-
 ## ETHGlobal Buenos Aires — **GasStation**
 **Awards:**  
 - Curvegrid — Best use of MultiBaas  
 - Avail — Build Unchained Apps with Avail Nexus SDK  
 - Showcase: https://ethglobal.com/showcase/gasstation-2j6g2  
 - Repo: https://github.com/jackchinski/tankUp  
+
+## ETHGlobal Bangkok — **SafeHODL**
+**Award:** Curvegrid — Best use of Webhooks  
+- Showcase: https://ethglobal.com/showcase/safehodl-jzs2b  
+- Repo: https://github.com/jackchinski/safeHODL  
 
 ## ETHWarsaw — **Base OS**
 **Award:** Best Project Overall  
